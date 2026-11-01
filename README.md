@@ -32,10 +32,6 @@ Mixed-Models 表示画布中包含多个生成模型系列；并不表示每条�
 | Anima | Batch-Text-to-Image | Current | [批量文生图4n.json](workflows/Anima/Batch-Text-to-Image/Current/%E6%89%B9%E9%87%8F%E6%96%87%E7%94%9F%E5%9B%BE4n.json) | 81/134 |
 | Anima | Batch-Text-to-Image | Legacy | [sfw批量文生图_legacy.json](workflows/Anima/Batch-Text-to-Image/Legacy/sfw%E6%89%B9%E9%87%8F%E6%96%87%E7%94%9F%E5%9B%BE_legacy.json) | 78/128 |
 | Anima | Image-to-Image | Archive | [单图快速图生图.json](workflows/Anima/Image-to-Image/Archive/%E5%8D%95%E5%9B%BE%E5%BF%AB%E9%80%9F%E5%9B%BE%E7%94%9F%E5%9B%BE.json) | 21/24 |
-| Anima | Image-to-Image | Archive | [批量图生图_D站bkp.json](workflows/Anima/Image-to-Image/Archive/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%94%9F%E5%9B%BE_D%E7%AB%99bkp.json) | 191/301 |
-| Anima | Image-to-Image | Current | [批量图生图_D站.json](workflows/Anima/Image-to-Image/Current/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%94%9F%E5%9B%BE_D%E7%AB%99.json) | 200/315 |
-| Anima | Image-to-Image | Legacy | [批量图生图_D站_legacy.json](workflows/Anima/Image-to-Image/Legacy/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%94%9F%E5%9B%BE_D%E7%AB%99_legacy.json) | 200/315 |
-| Anima | Image-to-Image | Legacy | [批量图生图_D站bkp_legacy.json](workflows/Anima/Image-to-Image/Legacy/%E6%89%B9%E9%87%8F%E5%9B%BE%E7%94%9F%E5%9B%BE_D%E7%AB%99bkp_legacy.json) | 191/301 |
 | Anima | Inpainting | Archive | [单图局部重绘bkp.json](workflows/Anima/Inpainting/Archive/%E5%8D%95%E5%9B%BE%E5%B1%80%E9%83%A8%E9%87%8D%E7%BB%98bkp.json) | 144/200 |
 | Anima | Inpainting | Current | [单图局部重绘.json](workflows/Anima/Inpainting/Current/%E5%8D%95%E5%9B%BE%E5%B1%80%E9%83%A8%E9%87%8D%E7%BB%98.json) | 161/229 |
 | Anima | Inpainting | Drafts | [单图局部重绘_V2.2.10_前端兼容修正版.json](workflows/Anima/Inpainting/Drafts/%E5%8D%95%E5%9B%BE%E5%B1%80%E9%83%A8%E9%87%8D%E7%BB%98_V2.2.10_%E5%89%8D%E7%AB%AF%E5%85%BC%E5%AE%B9%E4%BF%AE%E6%AD%A3%E7%89%88.json) | 181/250 |
@@ -78,8 +74,6 @@ Mixed-Models 表示画布中包含多个生成模型系列；并不表示每条�
 | Mixed-Models | Text-to-Image | Legacy | [单图高级文生图_含Turbo模式.Legacy.json](workflows/Mixed-Models/Text-to-Image/Legacy/%E5%8D%95%E5%9B%BE%E9%AB%98%E7%BA%A7%E6%96%87%E7%94%9F%E5%9B%BE_%E5%90%ABTurbo%E6%A8%A1%E5%BC%8F.Legacy.json) | 78/150 |
 | Model-Agnostic | Camera | Drafts | [CameraDirector_Simple_Workflow.json](workflows/Model-Agnostic/Camera/Drafts/CameraDirector_Simple_Workflow.json) | 3/2 |
 | Model-Agnostic | Camera | Legacy | [CameraDirector_Simple_Workflow_legacy.json](workflows/Model-Agnostic/Camera/Legacy/CameraDirector_Simple_Workflow_legacy.json) | 4/2 |
-| Model-Agnostic | Image-Moderation | Archive | [NSFW V2 图片列表示例.json](workflows/Model-Agnostic/Image-Moderation/Archive/NSFW%20V2%20%E5%9B%BE%E7%89%87%E5%88%97%E8%A1%A8%E7%A4%BA%E4%BE%8B.json) | 8/8 |
-| Model-Agnostic | Image-Moderation | Archive | [NSFW V3 高分辨率图片列表示例.json](workflows/Model-Agnostic/Image-Moderation/Archive/NSFW%20V3%20%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E7%89%87%E5%88%97%E8%A1%A8%E7%A4%BA%E4%BE%8B.json) | 8/8 |
 | Model-Agnostic | Prompt-Tools | Current | [TXT读取与提示词列表.json](workflows/Model-Agnostic/Prompt-Tools/Current/TXT%E8%AF%BB%E5%8F%96%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%88%97%E8%A1%A8.json) | 4/3 |
 | Model-Agnostic | Prompt-Tools | Current | [提示词并行追加_串联文本预览.json](workflows/Model-Agnostic/Prompt-Tools/Current/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B9%B6%E8%A1%8C%E8%BF%BD%E5%8A%A0_%E4%B8%B2%E8%81%94%E6%96%87%E6%9C%AC%E9%A2%84%E8%A7%88.json) | 3/2 |
 | Model-Agnostic | Upscaling | Archive | [放大模块.json](workflows/Model-Agnostic/Upscaling/Archive/%E6%94%BE%E5%A4%A7%E6%A8%A1%E5%9D%97.json) | 43/68 |

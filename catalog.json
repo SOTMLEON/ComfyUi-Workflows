@@ -14,14 +14,15 @@
       "CameraPromptRenderer",
       "PreviewAny"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Upscaling/Drafts/单图高级文生图 v2-单次模型放大.json",
     "model_family": "Anima",
     "purpose": "Upscaling",
     "status": "Drafts",
-    "sha256": "8f47412574e2f8efc4a7ab6155b03db2262b52fc79777fa0ce1c8cc26bbfcf73",
+    "sha256": "5f6a1f198af0b4a7d3f664c53467399dc3f5ebd788ebe697323a5c46cc11b236",
     "nodes": 22,
     "links": 24,
     "subgraphs": 5,
@@ -57,14 +58,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 4
+    "sanitized_field_count": 4,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_V2.2.10_前端兼容修正版.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "9ff2296c643ec15024704fb9452c23b7672e9a274842b63d4c9700849603410a",
+    "sha256": "49227adead3b8a303940e5b693accad7e6df14210b76a96e02720a49d4192b11",
     "nodes": 181,
     "links": 250,
     "subgraphs": 0,
@@ -113,14 +115,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 6
+    "sanitized_field_count": 6,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_V2.2.7_自动多轮.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "597d2a650ff191b802cb85d7b4e5513fc98329545d16a991805437aa507d5cd4",
+    "sha256": "d57bf842ba6faffe55950fc4abe4bf9863211c761c0e5d0c8f9a7e1117503800",
     "nodes": 149,
     "links": 206,
     "subgraphs": 0,
@@ -167,14 +170,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_V2.2.8R1_简化轮次命名_种子模式.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "fcbc9d45d4cd2e7383411e0bfc8da06b7c685f78a66139ee08b52d51d65253a3",
+    "sha256": "728015caa77245f533163a097b466c3ba754654098dafb3718022cb9f7076a76",
     "nodes": 174,
     "links": 237,
     "subgraphs": 0,
@@ -225,14 +229,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_V2.2.8_每轮保存_每轮路线.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "cbd1f442c2cc99630bee653a7667fff08f276fa52fd6d81339bf34bb07387ab7",
+    "sha256": "c729a9176f532ae1bcb18eac78ee98c61acdcfa806460fe2fa30273ab4732f25",
     "nodes": 181,
     "links": 250,
     "subgraphs": 0,
@@ -280,14 +285,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 6
+    "sanitized_field_count": 6,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_V2.2.9_每轮保存_轮次命名_种子模式.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "63e6130b0eb6dc44634a7aac25df058b19e3a18aa46bcdad559c361a7eef0724",
+    "sha256": "49227adead3b8a303940e5b693accad7e6df14210b76a96e02720a49d4192b11",
     "nodes": 181,
     "links": 250,
     "subgraphs": 0,
@@ -336,14 +342,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 6
+    "sanitized_field_count": 6,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/单图局部重绘_上传版_简化多轮修正版.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "f5496f2269d6e0bb93670678d63cc8ae810a2056a976280dc78e6060e0eab123",
+    "sha256": "dac1dc02abc14c3fc6395ef2f135fbfb9d651d7a14cfa7865d6371085bc40786",
     "nodes": 157,
     "links": 220,
     "subgraphs": 0,
@@ -394,14 +401,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Drafts/局部重绘V2.2.6_双Rerouter整理版.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Drafts",
-    "sha256": "5d36fc0441930f0fe444c3a03a97c426ff738df034077b792cbda54482f478ae",
+    "sha256": "1d3096b57937c795c54af327612a69b664546a5b8948d9d1f71dae47af699e7f",
     "nodes": 152,
     "links": 207,
     "subgraphs": 0,
@@ -444,14 +452,15 @@
       "easy int",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Drafts/放大模块v2.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Drafts",
-    "sha256": "083cf5dcad9145734b257e45aaa1747cf840fe49c3fb8d843266e3c36136465d",
+    "sha256": "3b24e1140eccabaf6a681901c4d04676c7407987c355dd7b53a3b1e22c095996",
     "nodes": 54,
     "links": 83,
     "subgraphs": 0,
@@ -479,14 +488,15 @@
       "easy mathInt",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "7368838545212490d72568f2471575d6898fced7b7fd837b5195c336285931d0",
+    "sha256": "fcf6202f8b57291001441395678483e5fb55b390aa9f740a36050fc851058bfd",
     "nodes": 78,
     "links": 153,
     "subgraphs": 5,
@@ -542,14 +552,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 12
+    "sanitized_field_count": 12,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Drafts/单图简易文生图 2-livecheck.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "46c94a385e3c116decdd5e38b21339a41fe1be7d6956857269b16b4720ba1411",
+    "sha256": "04d34cf76faddd1f44685295980f23133e152057993da53a853b710e405b321e",
     "nodes": 27,
     "links": 30,
     "subgraphs": 0,
@@ -582,14 +593,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Drafts/单图简易文生图 2-光照接线草稿.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "5a32a4e601541f7c72bf0d7ea71fc3cacb4a485f17861d66aec2072cdc56515e",
+    "sha256": "2002d6f4a43bbeeef5332af0b0d0a1864acd8e82d34930e91998d5990dc1d808",
     "nodes": 27,
     "links": 28,
     "subgraphs": 0,
@@ -622,14 +634,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图 v2.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "f84c344c8233c78a30bd426a3a61e0374b38dbe1759f2949be676261cab66a4e",
+    "sha256": "825ac9dbf38d70230f6284860889047a6b9d7ecad88918bc7f7f17b398e49f61",
     "nodes": 75,
     "links": 148,
     "subgraphs": 5,
@@ -681,14 +694,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图__da285f71.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "552daf4f0b307d25011638b6111498de71b608ca0a2d5195e9497d458158901e",
+    "sha256": "9f11e9086ad462f1af6e8e88ce61ac0a13fa6c620bf0875a78d6cee376fe1e74",
     "nodes": 78,
     "links": 150,
     "subgraphs": 5,
@@ -743,14 +757,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图_Anima_Base-Turbo可切换.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "cdd006918e5b1ca6637d3199aa5a645cb1b1ef6cb4264267a2379ac29feda620",
+    "sha256": "9c0e67efc5f3e4625ca915b8164bb82fb9d24449b0fac070cc0cf2910ecbf048",
     "nodes": 95,
     "links": 170,
     "subgraphs": 5,
@@ -808,14 +823,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图_Anima_Base-Turbo简化预览模式.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "df5ff8f5c82a742f6935df7ca9e7b930c19307bf77537ae3f12d3a2f2d6d0b33",
+    "sha256": "41bcb923614a5891ed7bcd01aac217c82b343671c97d025af21e7ec340486cb9",
     "nodes": 94,
     "links": 167,
     "subgraphs": 5,
@@ -872,14 +888,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/VLM-Caption/Caption/Drafts/Photoreal_Batch_Caption_QwenImage_ZImage_v1.json",
     "model_family": "VLM-Caption",
     "purpose": "Caption",
     "status": "Drafts",
-    "sha256": "e880bbcb804220d50a4db273c091e08a530c60a1551aa4376a9d3802713b9ca3",
+    "sha256": "7be5b2702da4613517ca9fdfb7e49508e1bd5747f8f7646cfa14c0bf3d9b9d5b",
     "nodes": 7,
     "links": 11,
     "subgraphs": 0,
@@ -896,14 +913,15 @@
       "llama_cpp_model_loader",
       "llama_cpp_parameters"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/VLM-Caption/Caption/Drafts/Universal_Batch_Caption_Exporter_v1.json",
     "model_family": "VLM-Caption",
     "purpose": "Caption",
     "status": "Drafts",
-    "sha256": "d384e889935a98b793e1197c736417198aa1a7ccef7bdc0677f42302bf28b585",
+    "sha256": "891e1a8ae5515aaa8d13622ee43c6d837d34fdbf570077615772670aa52fe7b8",
     "nodes": 24,
     "links": 35,
     "subgraphs": 0,
@@ -934,14 +952,15 @@
       "llama_cpp_parameters",
       "llama_cpp_unload_model"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Archive/单图局部重绘bkp.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Archive",
-    "sha256": "5f05b8c32ac68e512d58e7a8dd9fcb0fa46e4667ac25775be23b0c3e0d26a7cb",
+    "sha256": "aeac4a190b049d39027f98848a96da661764f25b1417dbd5b00c913ff725dca5",
     "nodes": 144,
     "links": 200,
     "subgraphs": 0,
@@ -986,14 +1005,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Image-to-Image/Archive/单图快速图生图.json",
     "model_family": "Anima",
     "purpose": "Image-to-Image",
     "status": "Archive",
-    "sha256": "dc079631b4779cf7f70957565f8d05e2002dfd0c330640a11667c7755cb2ef17",
+    "sha256": "b8ebca20dc262f51c553377f39de995a3f2dffb72edfff8b25fddcf7bb28b231",
     "nodes": 21,
     "links": 24,
     "subgraphs": 0,
@@ -1022,14 +1042,15 @@
       "easy loraStack",
       "easy loraStackApply"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Archive/单图高级文生图.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Archive",
-    "sha256": "a2d7bb92bba90d851be7ebdba4e8ed95a0fa08d17e91457e42de4e444db9ed9c",
+    "sha256": "060c04c32bfa8fe2abf33c9a6716ee7aa5401997c0bf1197cca68f9c8af94300",
     "nodes": 70,
     "links": 105,
     "subgraphs": 0,
@@ -1067,14 +1088,15 @@
       "easy seed",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Archive/放大模块.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Archive",
-    "sha256": "ca7fc7082bdfe872ab5fca89cc966a1e1f08869f02bcf5adfb6e8e82143a2523",
+    "sha256": "b47e2ff8320ea496ae746d444642edcb30afdc4cd326fe9d063ad3777262033b",
     "nodes": 43,
     "links": 68,
     "subgraphs": 0,
@@ -1098,14 +1120,15 @@
       "easy ifElse",
       "easy int"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Archive/放大模块v2.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Archive",
-    "sha256": "6bdf3cb6d666767aa7cc85840793d80d4cdbbad659144a72302460ed88a4a03d",
+    "sha256": "9bdf36e2b97aea3f6cd5fc6cae273b96924865f0f2410fc505a5fffd74c4fa53",
     "nodes": 56,
     "links": 86,
     "subgraphs": 0,
@@ -1133,14 +1156,15 @@
       "easy seed",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Archive/放大模块v2单图版.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Archive",
-    "sha256": "a41851a7c98e76ad9ddb94736b6f6f7d5fcdd23905eb317a4cde8f5c77565ef7",
+    "sha256": "437c4f1a080085a51ca6fc872e50f19b9c4a0f4958e21787d4ea98e69bf748bf",
     "nodes": 55,
     "links": 84,
     "subgraphs": 0,
@@ -1166,14 +1190,15 @@
       "easy seed",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Archive/放大模块v3.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Archive",
-    "sha256": "eeb890c5782498730bd041aea1eb7c8be3933024116b5e310fed91cbbcb020a8",
+    "sha256": "9a67e7590adfc0515b3a561ee744719e280d254d70116edb88ff2794e2e7ef56",
     "nodes": 108,
     "links": 153,
     "subgraphs": 0,
@@ -1203,14 +1228,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Archive/放大模块v3_简化版.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Archive",
-    "sha256": "749163332369baef3ad8b2b65c1c5dae9c151a694b8f860d9d7c064f196e5103",
+    "sha256": "b28800404a10ded4e05c039acaebb5fba3c739de74799205b785d4a7a4702cdb",
     "nodes": 38,
     "links": 66,
     "subgraphs": 3,
@@ -1243,14 +1269,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Legacy/单图局部重绘bkp_legacy.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Legacy",
-    "sha256": "3423dfc44181c139b565e23170c02c23bab4654f87e0959fce5254cb68c64eef",
+    "sha256": "179cb4c90138f53153f63988e54ac1bf961ed84f75b80e98a6d866b744cc53aa",
     "nodes": 144,
     "links": 200,
     "subgraphs": 0,
@@ -1295,14 +1322,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Legacy/单图高级文生图_legacy.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Legacy",
-    "sha256": "dd25f68fc96a235242c8ddffc2a4a4c9aeff6a78a318b543b57f229c921f8b12",
+    "sha256": "f4b7cad9209dd918aede923822f319d21cad5863b047f074d0aa2714f8b5b163",
     "nodes": 70,
     "links": 105,
     "subgraphs": 0,
@@ -1340,14 +1368,15 @@
       "easy seed",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Legacy/放大模块_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "096821be6ab1766f439c4497d6e3a3bf6087bec553c25f56ac64021a946853df",
+    "sha256": "e60e777e967936a3a2b010ff92f27bc44c229591d5fa0f615868d7105ce67a4d",
     "nodes": 43,
     "links": 68,
     "subgraphs": 0,
@@ -1371,14 +1400,15 @@
       "easy ifElse",
       "easy int"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Legacy/放大模块v2_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "0cab4ad51d8027b9a22b4d3483fbb6229bbcaee1263c31045873a720646020dd",
+    "sha256": "460a807b4b835feadb815d28ae7e43a59a769f05d4959f9b906fff97fe1ed97c",
     "nodes": 56,
     "links": 86,
     "subgraphs": 0,
@@ -1406,14 +1436,15 @@
       "easy seed",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Legacy/放大模块v3_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "e4be35070466bd32e1730ed4725a64529b454626e9c3bc2f365a9a520df28a56",
+    "sha256": "abc516a5b85b3dd32c58904b913f0a7d8880555be69ec1ad6f83b5bd8810df11",
     "nodes": 108,
     "links": 153,
     "subgraphs": 0,
@@ -1443,14 +1474,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Legacy/放大模块v3_简化版_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "3d90a99943d6faadb03813570bb32d72a12a6dce6a957e1072ebb2847352702e",
+    "sha256": "60d968a42100aac8c13b7e0709eaaa150c0edb045c2b755ec3c469c2c33539f2",
     "nodes": 38,
     "links": 66,
     "subgraphs": 3,
@@ -1483,14 +1515,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Inpainting/Legacy/Z-Image单图局部重绘_legacy.json",
     "model_family": "Z-Image",
     "purpose": "Inpainting",
     "status": "Legacy",
-    "sha256": "e502b1a3eafc7da5d1911ba7361b927458c59fe5b77a7bf70082e1890dfd26ab",
+    "sha256": "18f08ca5b45bbc15f04e5cf17eed9748812e06d9f944fcf0f96e8a13613691c6",
     "nodes": 154,
     "links": 219,
     "subgraphs": 0,
@@ -1541,14 +1574,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Text-to-Image/Legacy/Z-Image单图高级文生图_legacy.json",
     "model_family": "Z-Image",
     "purpose": "Text-to-Image",
     "status": "Legacy",
-    "sha256": "c430db00f596c5ec1e217127c2bbdaf5aa77d126ce957e7fe94e7422f108e6b5",
+    "sha256": "40f3f1ac9ff71801eaab031beb44b1e510cdc0aef6a43cb3e34c0bc0f8390558",
     "nodes": 55,
     "links": 94,
     "subgraphs": 3,
@@ -1596,14 +1630,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 4
+    "sanitized_field_count": 4,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Image-to-Image/Legacy/Z-Image批量图生图_legacy.json",
     "model_family": "Z-Image",
     "purpose": "Image-to-Image",
     "status": "Legacy",
-    "sha256": "9cf6660a562079aa7b834f14bd1d673f8a53d571fff4e8cc8f1ae4f99ab03969",
+    "sha256": "901aebce355073a58b8849b014da7fea8fffa4c53d6a76c627dc30e6dffa6ab1",
     "nodes": 174,
     "links": 278,
     "subgraphs": 0,
@@ -1708,14 +1743,15 @@
       "llama_cpp_model_loader",
       "llama_cpp_parameters"
     ],
-    "sanitized_field_count": 12
+    "sanitized_field_count": 12,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Legacy/sfw批量文生图_legacy.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Legacy",
-    "sha256": "4383dd0372c0963925f32dbb05ef023c62f3828d5adf34b0664659c6f413a9c9",
+    "sha256": "f142a601f71b4ace7d81c72712ee57bec95e685aa8bec8531e4b091743000843",
     "nodes": 78,
     "links": 128,
     "subgraphs": 0,
@@ -1764,14 +1800,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 11
+    "sanitized_field_count": 11,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Legacy/单图局部重绘_legacy.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Legacy",
-    "sha256": "2e7fef0d41b5c5660a81f4ee7de3c4d6fae9e124189381c8f567fcfb7de669ff",
+    "sha256": "c44c6c1854bdd7050bb312693364698e528b1bd658e593756af687f9558c75f5",
     "nodes": 161,
     "links": 229,
     "subgraphs": 0,
@@ -1824,14 +1861,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Legacy/单图高级文生图 v2_legacy.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Legacy",
-    "sha256": "652a20fd352cce3f56a638b40c01589ba3d2c71204d87b30d6137cbb2c2035b8",
+    "sha256": "2beef05d0bc09318df8271a63b344ecca167c5ca61bd062f40bfee20788fef38",
     "nodes": 76,
     "links": 149,
     "subgraphs": 5,
@@ -1884,14 +1922,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Camera/Legacy/CameraDirector_Simple_Workflow_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Camera",
     "status": "Legacy",
-    "sha256": "c76c0fc919c3d2fbccedbb2046a98f55c65f715cf0cd7553ed07ad041d9597fc",
+    "sha256": "230e5e04c6e31dccec4807e7beba6ddd2c3d41a71068c7ae2a83481ceb7369bc",
     "nodes": 4,
     "links": 2,
     "subgraphs": 0,
@@ -1902,14 +1941,15 @@
       "Note",
       "PreviewAny"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Legacy/放大模块v3_子图简化版_legacy.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "57ebc533bebcbf8351efa678b1dd3c5de74b40faefa3563f780ea1bec519bbcc",
+    "sha256": "ac5501b5a298c8ca40c8cd92e8a6425b6a5a83b3bdef82114355799df76b568d",
     "nodes": 38,
     "links": 66,
     "subgraphs": 3,
@@ -1942,14 +1982,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/SDXL-Illustrious/Upscaling/Legacy/放大模块v4_legacy.json",
     "model_family": "SDXL-Illustrious",
     "purpose": "Upscaling",
     "status": "Legacy",
-    "sha256": "6d3db245da84100d6b61f8133e9adf94e9be617bc5441572141d378b50caf717",
+    "sha256": "00b6cecb90ffcd98bf9e3616369102e05a0fc9b496f3485042ff14d4219728e1",
     "nodes": 51,
     "links": 106,
     "subgraphs": 5,
@@ -1988,14 +2029,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/LoRa测试2.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "23582c171eb133b1006aac69acec64cf8100bb78f794235c759368ca3de3b73b",
+    "sha256": "03923d172db02817fc8a1f0b330d7980c3681dfb202f1350167bde6d76c72a3a",
     "nodes": 27,
     "links": 31,
     "subgraphs": 0,
@@ -2028,14 +2070,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/LoRa测试2_LoRA文件夹并行.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "79275422f883155c5c745e4df1ad56b2240ed2e4331a6b84faad831cc82db12d",
+    "sha256": "411878aefa86e119d7604119427ddf64bcf5bacf4857ac176bb42a14afbcd95b",
     "nodes": 27,
     "links": 32,
     "subgraphs": 0,
@@ -2068,14 +2111,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Review/Current/LoRa测试2_评审_文件夹.json",
     "model_family": "Anima",
     "purpose": "LoRA-Review",
     "status": "Current",
-    "sha256": "3383b79259fd43fed10980c7a08a376d1e7c78fb4c301acea7f032c02ad9225f",
+    "sha256": "d560abb6921d65b36d13dee104c703d13fb3884ee47f6a7597cdc6836759a31a",
     "nodes": 35,
     "links": 48,
     "subgraphs": 0,
@@ -2114,14 +2158,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Review/Current/LoRa测试2_评审_权重.json",
     "model_family": "Anima",
     "purpose": "LoRA-Review",
     "status": "Current",
-    "sha256": "b405e217dac595b431177f0c750105fa0b042434120de105e5b552e274c5ecc0",
+    "sha256": "e50a6ecefd7216d0933b0bdf986ce853508368597219d14a4c1650273565c979",
     "nodes": 34,
     "links": 45,
     "subgraphs": 0,
@@ -2160,14 +2205,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Review/Current/LoRa测试2_评审_种子.json",
     "model_family": "Anima",
     "purpose": "LoRA-Review",
     "status": "Current",
-    "sha256": "755789b4af6fa3ec811d051961c3846a52409d8e48dda4f7e45214f95f0b7ac7",
+    "sha256": "cd7378becddb4c43d942384e691445ce284f48e5339a27ef5715f7375edc00c5",
     "nodes": 34,
     "links": 44,
     "subgraphs": 0,
@@ -2206,14 +2252,15 @@
       "easy loraStack",
       "easy loraStackApply"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/LoRa测试（文生图 ）.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "cc9102ecbfd907971209246c60f13fdb6b084dd7cf604cfe887c145345acb2d3",
+    "sha256": "a5570c65304bae914f6635b2b7462b2b868a31d294fc0729cb8b90385698adb1",
     "nodes": 27,
     "links": 31,
     "subgraphs": 0,
@@ -2246,14 +2293,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Qwen-Image-2.1/Text-to-Image/Current/Qwen-Image-2.1_01_文生图_1024.json",
     "model_family": "Qwen-Image-2.1",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "5aaf182683c95883caf2354c216a80a990215cce920309ed94d8b6a1d4156ab9",
+    "sha256": "5129dd765b086f877fb809c18438b9fd5814483f47ded16d7d93cf2a94a15dfd",
     "nodes": 9,
     "links": 8,
     "subgraphs": 0,
@@ -2271,14 +2319,15 @@
       "VAEDecode",
       "VAELoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Qwen-Image-2.1/Text-to-Image/Current/Qwen-Image-2.1_02_透明PNG文生图.json",
     "model_family": "Qwen-Image-2.1",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "7f3b984290dbf108bfc9b29ddc20d0f30545eaad27c75b236745e1927fce269a",
+    "sha256": "d4056e45d49fa60cb2059971a765fcd67e222491d66a5089f6296d54bad8461c",
     "nodes": 9,
     "links": 8,
     "subgraphs": 0,
@@ -2296,14 +2345,15 @@
       "VAEDecode",
       "VAELoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Qwen-Image-2.1/Utilities/Current/Qwen-Image-2.1_03_单图编辑.json",
     "model_family": "Qwen-Image-2.1",
     "purpose": "Utilities",
     "status": "Current",
-    "sha256": "8a8f5ca89c5b2d3d55b912d5ec63a368d511efb0f50cc2d79620f7f0c53f5163",
+    "sha256": "6ef2bce4cbc1a857a3bcfadd69d4e9b960d3a5e000bb26dc466e0a6245940b7b",
     "nodes": 9,
     "links": 10,
     "subgraphs": 0,
@@ -2321,14 +2371,15 @@
       "VAEDecode",
       "VAELoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Qwen-Image-2.1/Utilities/Current/Qwen-Image-2.1_04_多参考图编辑.json",
     "model_family": "Qwen-Image-2.1",
     "purpose": "Utilities",
     "status": "Current",
-    "sha256": "df4aa0cecb022a89ef532fd578bc23fe3fe1ff1a0f9a6fe7d9376424a7cdee38",
+    "sha256": "a0d4ee79688ed8694dd100086e44accf3e332d44e99da1c807d3cd8c5fa5609d",
     "nodes": 10,
     "links": 10,
     "subgraphs": 0,
@@ -2346,7 +2397,8 @@
       "VAEDecode",
       "VAELoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Prompt-Tools/Current/TXT读取与提示词列表.json",
@@ -2364,14 +2416,15 @@
       "PreviewAny",
       "TextSplitToList"
     ],
-    "sanitized_field_count": 1
+    "sanitized_field_count": 1,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Inpainting/Current/Z-Image单图局部重绘.json",
     "model_family": "Z-Image",
     "purpose": "Inpainting",
     "status": "Current",
-    "sha256": "27e079c2ed8fdb1299a91634f2198ef3cefbb92e2572647f52f6c276b9c3ce1f",
+    "sha256": "0b893c340e3f946606d171b04c632e86528d3b68d698a380ed91ae54f1c17038",
     "nodes": 154,
     "links": 219,
     "subgraphs": 0,
@@ -2422,14 +2475,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Text-to-Image/Current/Z-Image单图高级文生图.json",
     "model_family": "Z-Image",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "1ae8ad210a96178cfb159f7f78d6930347f6fc372570e72b915419ad6868abf9",
+    "sha256": "00adc3e4492744cc098f7d2d74a6e8ec5c38281348e5c7652413cf4fdaff20b6",
     "nodes": 55,
     "links": 94,
     "subgraphs": 3,
@@ -2477,14 +2531,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 4
+    "sanitized_field_count": 4,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Z-Image/Image-to-Image/Current/Z-Image批量图生图.json",
     "model_family": "Z-Image",
     "purpose": "Image-to-Image",
     "status": "Current",
-    "sha256": "6a36045daae8da5842d5b668ac13f12313f71f621b5ecda7e3bff1a1ca36036d",
+    "sha256": "159d07689e41792ab2407748423ad5282125de56427b9cf870b4c2838b729bd1",
     "nodes": 174,
     "links": 278,
     "subgraphs": 0,
@@ -2589,14 +2644,15 @@
       "llama_cpp_model_loader",
       "llama_cpp_parameters"
     ],
-    "sanitized_field_count": 12
+    "sanitized_field_count": 12,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Inpainting/Current/单图局部重绘.json",
     "model_family": "Anima",
     "purpose": "Inpainting",
     "status": "Current",
-    "sha256": "8956e10379c343bedc4cf320c7a7903d79aa0d232dd7e7cb02a9bbc2f76b29d1",
+    "sha256": "6ba824abdfde6b6d89c1d569be257a0534aacf0126ff1d71eff39466459e6d27",
     "nodes": 161,
     "links": 229,
     "subgraphs": 0,
@@ -2649,14 +2705,15 @@
       "easy seed",
       "easy seedList"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Current/单图简易文生图.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "cbaa777c79855a487607275519664a918029cf49681c27d433def5440a5ce839",
+    "sha256": "b990240baf341c4b1fc77c3a863679c0e2077ff29ede90de982eae8537a7e2a0",
     "nodes": 26,
     "links": 29,
     "subgraphs": 0,
@@ -2688,14 +2745,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Current/单图简易文生图 2-V3测试.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "200e8f9b776cc3d67af6715c67db6cbcddcc224fdac5223c82f49cb6362adb0b",
+    "sha256": "acc03e9c955769e8ff8fc38c440d6c6063ab48268c88f16ac7f4f3a30bc9aa61",
     "nodes": 30,
     "links": 33,
     "subgraphs": 0,
@@ -2729,14 +2787,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Current/单图简易文生图 2.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "cef86c3ed75a45ccb96e939f2253d0983bff26d606d237c9ccde19ef2abc699e",
+    "sha256": "e500a8707aca0467cfcd686a584e2ea1cf887ea5d6af88f8e83f24ba518a9034",
     "nodes": 29,
     "links": 32,
     "subgraphs": 0,
@@ -2770,14 +2829,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Current/单图高级文生图.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "c1e1af422b5b15dd1a3efcfb932bef553778454d723605ce48f5894eca1f1146",
+    "sha256": "44a52aa2b2cfbecf3d3ae9ac5342459a5e749387f02094eea4d0b7c368231f85",
     "nodes": 87,
     "links": 168,
     "subgraphs": 5,
@@ -2838,14 +2898,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/同Lora多prompt测试.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "d071bafd72eb0316984ad41f123e0af8bb736842b24c290f1fafe2779c4e4bdf",
+    "sha256": "6481b5548eede5718d322d49bd7643f46a89eea0023f36b842346c0e165363e8",
     "nodes": 29,
     "links": 33,
     "subgraphs": 0,
@@ -2880,14 +2941,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/多Lora同prompt测试.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "a33c53bdbc6513a2e63c78411393fbc54477b5e4821a2431c1bdf1e2a9a7ff05",
+    "sha256": "6b3b0d526098d4d54e858b873a910eedd175261dab7a3abda6978b77acec0677",
     "nodes": 29,
     "links": 33,
     "subgraphs": 0,
@@ -2921,14 +2983,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 3
+    "sanitized_field_count": 3,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/多Lora同prompt测试_双K采样器_一键Turbo.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "82da63115bb5e6673396626e92906515e04dd5e25cac097d2f863599281d307b",
+    "sha256": "3a788f1d070e46ac3773d0ddf63ea6a6bbe71ea01afd4f1521ea06638b0756a0",
     "nodes": 37,
     "links": 49,
     "subgraphs": 0,
@@ -2966,14 +3029,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 21
+    "sanitized_field_count": 21,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Current/批量文生图.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Current",
-    "sha256": "692298ebdbaac2a6d62b55a3dfc2320c4f656148b0e3e9eb48b34fe2be0216db",
+    "sha256": "51504e2d59ff2d8d8ee1e6e943765a65df0cadf98ef6844c2d63b77ecf90770b",
     "nodes": 78,
     "links": 128,
     "subgraphs": 0,
@@ -3022,14 +3086,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 11
+    "sanitized_field_count": 11,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Current/批量文生图1n.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Current",
-    "sha256": "ef229932f670fae5ec47ee84c72091c7bbb3bc1f1e2c2a237aae1e4a5d54e30f",
+    "sha256": "4f7667e8fbfa71471566846b08982ccac2e797d81f5fa2e8da5db09bcc8075ff",
     "nodes": 81,
     "links": 134,
     "subgraphs": 0,
@@ -3077,14 +3142,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 17
+    "sanitized_field_count": 17,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Current/批量文生图2n.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Current",
-    "sha256": "95d9d165bf5e02639908423cafd67cb3f0f721f6e949592cc72705c8f76fbbba",
+    "sha256": "2efc7d403108fdcbe60994b1d12cef206a669506bb051f11ceb6f064c600f64f",
     "nodes": 81,
     "links": 134,
     "subgraphs": 0,
@@ -3132,14 +3198,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 15
+    "sanitized_field_count": 15,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Current/批量文生图3n.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Current",
-    "sha256": "e70f056e1f9cbae097bf0ea27957baa9f6cef79ad864558dac3042130caf9bb6",
+    "sha256": "eb92881ee2e3792a996d3609a380550f0fb91b2bb7bb16c97f7c37dffc6da211",
     "nodes": 81,
     "links": 134,
     "subgraphs": 0,
@@ -3187,14 +3254,15 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 11
+    "sanitized_field_count": 11,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Batch-Text-to-Image/Current/批量文生图4n.json",
     "model_family": "Anima",
     "purpose": "Batch-Text-to-Image",
     "status": "Current",
-    "sha256": "d1364de31f18efe523c3a39424e5a654d1c7385defa394bbe01a4687d3457690",
+    "sha256": "cbd244f6307bf00ce65c1ae67c5de118a98b12932785ac6e46d5afa083d7ded1",
     "nodes": 81,
     "links": 134,
     "subgraphs": 0,
@@ -3242,7 +3310,8 @@
       "easy loraStackApply",
       "easy seed"
     ],
-    "sanitized_field_count": 17
+    "sanitized_field_count": 17,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Prompt-Tools/Current/提示词并行追加_Anima测试.json",
@@ -3268,7 +3337,8 @@
       "VAEDecode",
       "VAELoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Prompt-Tools/Current/提示词并行追加_串联文本预览.json",
@@ -3284,14 +3354,15 @@
       "CopyableShowText",
       "PromptParallelAppend"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/VLM-Caption/Caption/Current/本地反推.json",
     "model_family": "VLM-Caption",
     "purpose": "Caption",
     "status": "Current",
-    "sha256": "c7aa9b480e1d060814e5445d3b158d57686c50766600dee14ccf72da9616e651",
+    "sha256": "6742a1503d2bc6ed0b4afed08b9a07e2e7c135316d379dd3656291428c199961",
     "nodes": 22,
     "links": 28,
     "subgraphs": 0,
@@ -3320,14 +3391,15 @@
       "llama_cpp_parameters",
       "llama_cpp_unload_model"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/LoRA-Testing/Current/LoRA-Text-CLIP_单图简易文生图.json",
     "model_family": "Anima",
     "purpose": "LoRA-Testing",
     "status": "Current",
-    "sha256": "7e9eda0d90a47ebee8dc799a465fe3c3a80d62b0e11bd6e31c84917ba3764bd4",
+    "sha256": "94b434378d4622fa65a04ca95428d6b87b05dc3dcce24d555eda24b7d1424e8a",
     "nodes": 28,
     "links": 32,
     "subgraphs": 0,
@@ -3361,14 +3433,15 @@
       "easy loraStack",
       "easy seed"
     ],
-    "sanitized_field_count": 10
+    "sanitized_field_count": 10,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Current/放大模块v3_子图简化版.json",
     "model_family": "Model-Agnostic",
     "purpose": "Upscaling",
     "status": "Current",
-    "sha256": "4a392f6779767d991db567428c3854a7f86753fdd9d8ccd2636c87e6d4a39251",
+    "sha256": "e384df1c286aa4fc872c6d91ec1b7846b8f85913d81adea4b016f1054b92c858",
     "nodes": 38,
     "links": 66,
     "subgraphs": 3,
@@ -3401,14 +3474,15 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/SDXL-Illustrious/Upscaling/Current/放大模块v4.json",
     "model_family": "SDXL-Illustrious",
     "purpose": "Upscaling",
     "status": "Current",
-    "sha256": "9c2700d0d22564ddb3d3b909e5335648e02a871608b714fbdc268924edd31c72",
+    "sha256": "95cbaf0afc7e81408d83be34edb1ea54cbe9b9c6354e771b43e91e379efe53e8",
     "nodes": 51,
     "links": 106,
     "subgraphs": 5,
@@ -3447,7 +3521,8 @@
       "easy seedList",
       "easy simpleMath"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Model-Agnostic/Upscaling/Current/简易图像放大.json",
@@ -3465,14 +3540,15 @@
       "SaveImage",
       "UpscaleModelLoader"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Anima/Text-to-Image/Current/简易基本文生图流.json",
     "model_family": "Anima",
     "purpose": "Text-to-Image",
     "status": "Current",
-    "sha256": "81870d02bd35e86819c4a16b317974fa05849dd916eb36d0a7cd758eb0e400f1",
+    "sha256": "9939027b94b9c48ba604ca98d77ca1d81ba45e3e9ef7ef68eb6f4ea16b1a0acb",
     "nodes": 13,
     "links": 14,
     "subgraphs": 0,
@@ -3492,14 +3568,15 @@
       "easy loraStack",
       "easy loraStackApply"
     ],
-    "sanitized_field_count": 0
+    "sanitized_field_count": 0,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Legacy/单图高级文生图_含Turbo模式.Legacy.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Legacy",
-    "sha256": "4205aa02ff9ebb4365110cdd35aab1a1557a9503cb10f275733db58a6920b955",
+    "sha256": "c2eb3b19ec8b9b4452fcc5ea35a59d1c40a6e8e7455aadd7c8e2cd1f71c42076",
     "nodes": 78,
     "links": 150,
     "subgraphs": 5,
@@ -3554,14 +3631,15 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   },
   {
     "path": "workflows/Mixed-Models/Text-to-Image/Drafts/单图高级文生图_含Turbo模式.json",
     "model_family": "Mixed-Models",
     "purpose": "Text-to-Image",
     "status": "Drafts",
-    "sha256": "65636f583561e36e265b53966a53c49643362ab065f6ee1a568ff8cea34ee03a",
+    "sha256": "ac17be0eaecd6b0514b15bc293c1464be5f19c5158f9662a9ecb05ef83ba2cca",
     "nodes": 89,
     "links": 165,
     "subgraphs": 5,
@@ -3618,6 +3696,7 @@
       "easy simpleMath",
       "f21b3d11-6123-4edf-9779-c19f3c5849b4"
     ],
-    "sanitized_field_count": 2
+    "sanitized_field_count": 2,
+    "publication_note": "Neutral example text; configure prompts and local resource inputs before use."
   }
 ]
